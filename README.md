@@ -1,9 +1,5 @@
 ### cc sv?  👋
 
-<!--
-**inesdubt/inesdubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 345678 fucking projets 
 - 🌱 I’m currently learning how to hacker la nasa 
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... lol 
--->
+
